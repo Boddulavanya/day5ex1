@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\Consoleday5 ex\Consoleday5 ex\bin\Debug\Consoleday5 ex.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\Consoleday5 ex\Consoleday5 ex\bin\Debug\Consoleday5 ex.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\Consoleday5 ex\Consoleday5 ex\bin\Debug\Consoleday5 ex.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\Consoleday5 ex\Consoleday5 ex\obj\Debug\Consoleday5 ex.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\Consoleday5 ex\Consoleday5 ex\obj\Debug\Consoleday5 ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\Consoleday5 ex\Consoleday5 ex\obj\Debug\Consoleday5 ex.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\Consoleday5 ex\Consoleday5 ex\obj\Debug\Consoleday5 ex.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\Consoleday5 ex\Consoleday5 ex\obj\Debug\Consoleday5 ex.pdb
